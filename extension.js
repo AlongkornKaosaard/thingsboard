@@ -1,5 +1,5 @@
 ({
-    name: "Thingsboard", // Category Name
+    name: "Thingsboard2", // Category Name
     description: "Connect to Thingsboard Mqtt",
     author: "1EN",
     category: "Communication",
