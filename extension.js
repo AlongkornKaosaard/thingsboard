@@ -3,7 +3,7 @@
     description: "Connect to Thingsboard Mqtt",
     author: "1EN",
     category: "Communication",
-    version: "1.0.1",
+    version: "1.0.0",
     icon: "/static/icon.png", // Category icon
     color: "#E67E22", // Category color (recommend some blocks color)
     blocks: [ // Blocks in Category
